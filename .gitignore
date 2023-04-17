@@ -1,0 +1,5 @@
+# Ignora la carpeta de output, al final se tendría que recompilar
+output
+.vscode
+
+
